@@ -95,4 +95,4 @@ python3 ~/ParlAI/parlai/chat_service/services/browser_chat/run.py --config-path 
 
 For any further questions, do not hesitate to contact rmajanss[dot]janssens[at]ugent[dot]be or [@rubenjanss](https://www.twitter.com/rubenjanss) on Twitter. You can also always raise an issue in the repository.
 
-<script> window.scroll(0,100000) </script> 
+<!--<script> window.scroll(0,100000) </script> -->
