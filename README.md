@@ -10,7 +10,7 @@ Then, we compared two systems to generate these questions: a retrieval-based mod
 
 Finally, we deployed the system on a Furhat social robot.
 
-This README contains technical instructions to replicate our results. Read our **blog post** (**LINK coming soon**) for more information, or the **paper** itself if you want details about the methodology! For any further questions, do not hesitate to contact `rmajanss[dot]janssens[at]ugent[dot]be` or [@rubenjanss](https://www.twitter.com/rubenjanss)  on Twitter.
+This README contains technical instructions to replicate our results. Read our [blog post](https://rubenjanssens.be/visual-conversation-starters) for more information, or the [paper](https://dl.acm.org/doi/abs/10.5555/3523760.3523884) itself if you want details about the methodology! For any further questions, do not hesitate to contact `rmajanss[dot]janssens[at]ugent[dot]be` or [@rubenjanss](https://www.twitter.com/rubenjanss)  on Twitter.
 
 If you use our work, please cite our paper using the following citation:
 ```
