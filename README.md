@@ -1,6 +1,6 @@
 # Visual Conversation Starters
 
-This repository contains the dataset and code associated with the paper *"Cool glasses, where did you get them?": Generating Visually Grounded conversation starters for Human-Robot Dialogue*, by Ruben Janssens, Pieter Wolfert, Thomas Demeester, and Tony Belpaeme, published at [HRI'22](https://dl.acm.org/doi/abs/10.5555/3523760.3523884).
+This repository contains the dataset and code associated with the paper *"Cool glasses, where did you get them?": Generating Visually Grounded conversation starters for Human-Robot Dialogue*, by Ruben Janssens, Pieter Wolfert, Thomas Demeester, and Tony Belpaeme, [published at HRI'22](https://dl.acm.org/doi/abs/10.5555/3523760.3523884).
 
 In this work, we built a system that generates questions for robots to start an open-domain conversation with a user, based on visual information.
 
